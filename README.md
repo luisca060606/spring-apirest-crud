@@ -1,4 +1,4 @@
-# ApiRest build with SpringBoot and postres on docker
+# ApiRest build with Java SpringBoot and postgresql on docker
 
 ## Steps
 1. Clone repository
